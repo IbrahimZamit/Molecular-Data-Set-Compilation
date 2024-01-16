@@ -1,4 +1,4 @@
-# Collection of data sets of molecules and properties :gift: :smile:
+# Collection of data sets of molecules and properties :smile:
 
 ## What is it? 
 
